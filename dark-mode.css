@@ -6,7 +6,8 @@
 	--grey2: #8e8e8e;
 	--grey3: #c5c5c5;
 
-	--important1: #7bc5c5;
+	--important1: #03f9d7;
+	--url1: #3b6cc1;
 }
 
 /*Main Vimium bar*/
@@ -36,6 +37,10 @@
 
 #vomnibar li {
 	border-bottom: 1px solid var(--grey1);
+}
+
+#vomnibar li .vomnibarUrl {
+	color: var(--url1);
 }
 
 .vomnibarTitle{
