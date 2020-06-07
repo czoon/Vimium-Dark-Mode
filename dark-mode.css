@@ -1,0 +1,59 @@
+:root{
+	--dark1: #1d1d1d;
+	--dark2: #313131;
+
+	--grey1: #616161;
+	--grey2: #8e8e8e;
+	--grey3: #c5c5c5;
+
+	--important1: #7bc5c5;
+}
+
+/*Main Vimium bar*/
+#vomnibar {
+	background: var(--dark1);
+}
+
+#vomnibar input{
+	color: white;
+	background-color: var(--dark1);
+	border: 1px solid var(--grey1);
+}
+
+#vomnibar .vomnibarSearchArea{
+	background-color: var(--dark2);
+	border-bottom: 1px solid var(--grey2);
+}
+
+
+#vomnibar li.vomnibarSelected{
+	background-color: var(--dark2);
+}
+
+#vomnibar > ul {
+	background-color: var(--dark1);
+}
+
+#vomnibar li {
+	border-bottom: 1px solid var(--grey1);
+}
+
+.vomnibarTitle{
+	color: var(--grey3) !important;
+}
+
+.vomnibarMatch{
+	color: var(--important1) !important;
+	font-weight: normal !important;
+}
+
+
+/* Vimium HUD*/
+div.vimiumHUD .vimiumHUDSearchArea{
+	background: var(--dark1);
+}
+
+
+
+
+
