@@ -31,6 +31,10 @@
 	background-color: var(--dark2);
 }
 
+#vomnibar li .vomnibarSource{
+	color: var(--grey2);
+}
+
 #vomnibar > ul {
 	background-color: var(--dark1);
 }
