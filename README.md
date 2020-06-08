@@ -4,7 +4,7 @@ A very simple dark mode to improve your Vimium experience while using some dark 
 
 <center>
 
-![](images/image1.png)
+![](./images/image1.PNG)
 
 </center>
 
