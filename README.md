@@ -2,6 +2,12 @@
 
 A very simple dark mode to improve your Vimium experience while using some dark themed web.
 
+<center>
+
+![](images/image1.png)
+
+</center>
+
 ## Installation
 
 - Clone the repository, or just access and copy to your clipboard the content inside *dark-mode.css*.  
