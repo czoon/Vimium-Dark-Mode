@@ -58,11 +58,17 @@
 
 
 /* Vimium HUD*/
-div.vimiumHUD .vimiumHUDSearchArea{
-	background: var(--dark1);
+div.vimiumHUD .vimiumHUDSearchArea, .hud-find{
+	background: var(--dark1) !important;
 }
 
+.hud-find{
+	border: none !important;
+}
 
+span#hud-find-input{
+	color: var(--grey3) !important;
+}
 
 
 
